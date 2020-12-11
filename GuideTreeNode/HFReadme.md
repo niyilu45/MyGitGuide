@@ -48,6 +48,7 @@
 - [板子资料和信道模拟器](https://github.com/SEU-HF-TEAM/BoardInformationAndChannelSimulator)
 
 ## 未放置于Team的仓库
+- [同步专利编写](https://github.com/niyilu45/SyncPatent-Doc)
 - [同步方法进一步研究](https://github.com/niyilu45/projects-HFProgram-SyncResearch)
 - [寻找较优的m序列对](https://github.com/niyilu45/projects-HFProgram-FindBestMseqPair)
 
