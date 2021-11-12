@@ -17,6 +17,7 @@
 ## 工具代码
 - [FFT实现卷积](https://github.com/niyilu45/ConvCprogram)
 ## Shell
+- [多任务拆分](https://github.com/niyilu45/TaskDepart)
 - [多文件数据合并](https://github.com/niyilu45/ShellReulstMerge)
 
 ## 安装教程
