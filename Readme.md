@@ -19,6 +19,7 @@
 ## Shell
 - [多任务拆分](https://github.com/niyilu45/TaskDepart)
 - [多文件数据合并](https://github.com/niyilu45/ShellReulstMerge)
+- [用例case处理](https://github.com/niyilu45/TaskSolving)
 
 ## 安装教程
 - [MATLAB静默安装(适用于服务器)](https://github.com/niyilu45/MATLAB_Slient_Install)
